@@ -1,10 +1,10 @@
 <h1 align="center">Responsive Twitter UI clone</h1>
 
 ## Summary
-* [About](#about-the-project)
-* [Deploy](#deploy)
-* [Technologies](#technologies)
-* [Getting Started](#getting-started)
+* [About](#-about-the-project)
+* [Deploy](#-deploy)
+* [Technologies](#-technologies)
+* [Getting Started](#-getting-started)
   * [Install](#install)
   * [Running](#running)
 
