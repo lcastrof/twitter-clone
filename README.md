@@ -1,12 +1,14 @@
 <h1 align="center">Responsive Twitter UI clone</h1>
 
 ## Summary
-* [About](#-about-the-project)
-* [Deploy](#-deploy)
-* [Technologies](#-technologies)
-* [Getting Started](#-getting-started)
-  * [Install](#install)
-  * [Running](#running)
+<p align="center">
+ <a href="#-about-the-project">About</a> •
+ <a href="#-deploy">Deploy</a> • 
+ <a href="#-technologies">Technologies</a> • 
+ <a href="#-getting-started">Getting Started</a> [ 
+ <a href="#requirements">Requirements</a>  •
+ <a href="#install">Install</a> ]
+</p>
 
 ## 📜 About the project
 <p>This is a project made with the intention of training responsivity in websites, the use of flexbox and to test the react-stickybox lib to simulate Twitter's sidebar behaviour.</p>
